@@ -1,2 +1,3 @@
 # hello-world
-Probando
+Probando,
+Estudio matematicas aplicadas en la UAEH
